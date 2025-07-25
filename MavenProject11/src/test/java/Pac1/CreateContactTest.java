@@ -23,5 +23,10 @@ public class CreateContactTest {
 	public void modifyContactTest() {
 		System.out.println("execute modifyCretaeContactTest");
 	}
+	
+	@Test
+	public void createContactWithDate() {
+		System.out.println("execute  createContactWithDate");
+	}
 
 }
